@@ -18,12 +18,28 @@
 
 ## 🧰 Languages & Tools
 
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### 🌐 Web / Backend
+![Tornado](https://img.shields.io/badge/Tornado-Python%20Server-blue?style=for-the-badge)
+![Web Server](https://img.shields.io/badge/Web_Server-Tornado-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎮 Graphics & Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge)
-![Tornado](https://img.shields.io/badge/Tornado-Python%20Server-blue?style=for-the-badge)
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF69B4?style=for-the-badge)
+
+### 🧩 Game Scripting / Minecraft
+![Minecraft Datapacks](https://img.shields.io/badge/Minecraft-Datapacks-3C8527?style=for-the-badge)
+![MCFunction / Game Logic](https://img.shields.io/badge/MCFunction-Game_Logic-green?style=for-the-badge)
+![Modular / Procedural Systems](https://img.shields.io/badge/Modular-Game_Systems-orange?style=for-the-badge)
 
 ---
 
