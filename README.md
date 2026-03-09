@@ -152,12 +152,15 @@ Progress: 70%
 ### Totally Accurate Minecraft Simulator
 [Project Page](https://www.planetminecraft.com/project/totally-accurate-minecraft-simulator/)
 
-A custom **Minecraft strategy world** inspired by *Totally Accurate Battle Simulator*.
+A custom **Minecraft strategy world** inspired by Landfall Games' *Totally Accurate Battle Simulator*.
 
 Features:
 - 1000+ unit types
 - Armies from history, pop culture, and fiction
 - Boss battles that follow a storyline
+- Complex gameplay systems implemented with **MCFunction scripting**
+- Extensive use of **JSON configuration files**
+- Game logic using Minecraft’s scoreboard system to simulate variables, conditions, and state transitions.
 
 ---
 
