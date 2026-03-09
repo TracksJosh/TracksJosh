@@ -26,8 +26,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🌐 Web / Backend
-![Tornado](https://img.shields.io/badge/Tornado-Python%20Server-blue?style=for-the-badge)
-![Web Server](https://img.shields.io/badge/Web_Server-Tornado-blue?style=for-the-badge)
+![Tornado Web Server](https://img.shields.io/badge/Tornado-Web_Server-blue?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
