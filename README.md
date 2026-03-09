@@ -1,7 +1,8 @@
 ## Hello GitHub!
 
 - My Projects:
-  - ![Rubik's Cube with JOGL](https://github.com/TracksJosh/CS465-Project-Boddicker-Goff) [progress](https://progress-bar.xyz/28/)
+  - ![Rubik's Cube with JOGL](https://github.com/TracksJosh/CS465-Project-Boddicker-Goff)
+  - [progress](https://progress-bar.xyz/28/)
   - 
 
 <!--
