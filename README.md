@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Science student
+- 🎓 Computer Science student, will be focusing on Human-Computer Interaction in the near future
 - 🎮 Developer of multiple *Keep Talking and Nobody Explodes* (KTANE) modules
 - 🧩 Interested in puzzle design, cryptography, and trivia systems
 - 💻 Experience with game logic and web systems
