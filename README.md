@@ -46,7 +46,7 @@
 
 ### 🧩 Quivia — Asynchronous Trivia Game
 - [Front End](https://github.com/TracksJosh/FrontEnd)
-- [Back End](https://github.com/TracksJosh/FrontEnd)
+- [Back End](https://github.com/TracksJosh/BackEnd)
 
 An asynchronous multiplayer trivia game that uses questions from **OpenTDB** and **QBReader** databases.
 
