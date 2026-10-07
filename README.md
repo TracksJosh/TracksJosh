@@ -133,7 +133,7 @@ Inspired by:
 
 ---
 
-# 🌐 Other Projects
+#  Other Projects
 
 ### Repository of Quizbowl [Requires More Implementation]
 [Repository](https://github.com/TracksJosh/repo_of_qb)
@@ -159,7 +159,7 @@ Developed with:
 
 ---
 
-# 🧱 Minecraft Project
+#  Minecraft Project
 
 ### Totally Accurate Minecraft Simulator
 [Project Page](https://www.planetminecraft.com/project/totally-accurate-minecraft-simulator/)
@@ -176,7 +176,7 @@ Features:
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TracksJosh&show_icons=true&theme=tokyonight">
@@ -188,6 +188,6 @@ Features:
 
 ---
 
-# 📫 Contact
+#  Contact
 
 GitHub: https://github.com/TracksJosh
