@@ -1,50 +1,49 @@
-<h1 align="center">Hi, I'm Josh 👋</h1>
-<h3 align="center">Computer Science • Puzzle & Game Developer</h3>
+<h1 align="center">Hi, I'm Josh (TracksJosh in some communities)</h1>
 
 <p align="center">
-  I enjoy developing games, puzzle systems, and tools related to Quizbowl and cryptography.
+  I enjoy developing games, puzzles, and tools related to Quizbowl.
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Computer Science student, will be focusing on Human-Computer Interaction in the near future
-- 🎮 Developer of multiple *Keep Talking and Nobody Explodes* (KTANE) modules
-- 🧩 Interested in puzzle design, cryptography, and trivia systems
-- 💻 Experience with game logic and web systems
+-  Computer Science student, focusing on Human-Computer Interaction
+-  Developer of multiple *Keep Talking and Nobody Explodes* (KTANE) modules
+-  Interested in puzzles, cryptography, and trivia
+-  Experience with game logic and web systems
 
 ---
 
-## 🧰 Languages & Tools
+##  Languages & Tools
 
-### 💻 Programming Languages
+###  Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 🌐 Web / Backend
+###  Web / Backend
 ![Tornado Web Server](https://img.shields.io/badge/Tornado-Web_Server-blue?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎮 Graphics & Game Development
+###  Graphics & Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge)
 ![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF69B4?style=for-the-badge)
 
-### 🧩 Game Scripting / Minecraft
+###  Game Scripting / Minecraft
 ![Minecraft Datapacks](https://img.shields.io/badge/Minecraft-Datapacks-3C8527?style=for-the-badge)
 ![MCFunction / Game Logic](https://img.shields.io/badge/MCFunction-Game_Logic-green?style=for-the-badge)
 ![Modular / Procedural Systems](https://img.shields.io/badge/Modular-Game_Systems-orange?style=for-the-badge)
 
 ---
 
-# ⭐ Featured Projects
+#  Featured Projects
 
-### 🧩 Quivia — Asynchronous Trivia Game
+###  Quivia — Asynchronous Trivia Game
 - [Front End](https://github.com/TracksJosh/FrontEnd)
 - [Back End](https://github.com/TracksJosh/BackEnd)
 
@@ -57,7 +56,7 @@ Features:
 
 ---
 
-### 🧊 Rubik's Cube with JOGL
+###  Rubik's Cube with JOGL
 [Repository](https://github.com/TracksJosh/CS465-Project-Boddicker-Goff)
 
 Computer Graphics course project implementing an interactive **Rubik's Cube** using JOGL.
@@ -72,7 +71,7 @@ Features:
 
 ---
 
-# 🎮 KTANE Modules
+#  KTANE Modules
 
 I develop custom modules for the puzzle game *Keep Talking and Nobody Explodes*. These modules feature cryptography, trivia, procedural rules, and puzzle-solving mechanics.
 
@@ -86,14 +85,14 @@ Based on a **Minecraft world** I developed years earlier.
 ### Connected Quizbowl
 [Repository](https://github.com/TracksJosh/ktaneConnectedQuizbowl-master)
 
-Fetches **Quizbowl questions from QBReader** and includes an offline backup database.
+Fetches **Quizbowl questions from QBReader** and includes an offline backup dataset.
 
 ---
 
 ### Shape Cipher
 [Repository](https://github.com/TracksJosh/ktaneShapeCipher-master)
 
-A cryptography module featuring **custom substitution ciphers** designed specifically for the project.
+A cryptography module featuring **custom substitution ciphers** designed specifically for the project. These ciphers were later improved in *Cipher Machine* by Sean, though the original ciphers stayed in *Shape Cipher*.
 
 ---
 
@@ -111,7 +110,7 @@ Inspired by:
 - *The Oregon Trail*
 - *Stargate*
 
-Based on a game developed by my Algebra II Honors teacher.
+Based on a game developed by my Algebra II Honors teacher from high school.
 
 ---
 
@@ -136,7 +135,7 @@ Inspired by:
 
 # 🌐 Other Projects
 
-### Repository of Quizbowl
+### Repository of Quizbowl [Requires More Implementation]
 [Repository](https://github.com/TracksJosh/repo_of_qb)
 
 A website containing answer pages for Quiz Bowl questions.
@@ -158,8 +157,6 @@ Developed with:
 - [hennigesclaire](https://github.com/hennigesclaire)
 - [richardthegat](https://github.com/richardthegat)
 
-Progress: 70%
-
 ---
 
 # 🧱 Minecraft Project
@@ -171,9 +168,9 @@ A custom **Minecraft strategy world** inspired by Landfall Games' *Totally Accur
 
 Features:
 - 1000+ unit types
-- Armies from history, pop culture, and fiction
+- Units and artillery from history, pop culture, and fiction
 - Boss battles that follow a storyline
-- Complex gameplay systems implemented with **MCFunction scripting**
+- Complex gameplay systems implemented with **MCFunction files**
 - Extensive use of **JSON configuration files**
 - Game logic using Minecraft’s scoreboard system to simulate variables, conditions, and state transitions.
 
